@@ -1,4 +1,4 @@
-## Fuzzy Logic Toolbox Tutorial
+## A. Fuzzy Logic Toolbox Tutorial
 
 > Let’s quickly review the Week 5 IT Class Material. This week’s task is to create a fuzzy inference system (FIS) for credit evaluation using **Mamdani** and **Sugeno** fuzzy systems.
 
@@ -163,7 +163,7 @@ title('Sugeno system (Output 1)')
 
 
 
-## Train Adaptive Neuro-Fuzzy Inference Systems
+## B. Train Adaptive Neuro-Fuzzy Inference Systems
 
 > **Neuro-Fuzzy Designer (i.e., ANFIS Editor GUI)** is a tool for designing, training, and testing Sugeno-type fuzzy inference systems. However, it will be removed in a future release (see [details here](https://uk.mathworks.com/help/fuzzy/neurofuzzydesigner-app.html#mw_746f1d4a-749c-46d0-b8d7-9c501b848494)).
 >
@@ -418,7 +418,7 @@ As expected, there are significant differences between the validation data outpu
 
 
 
-## Write in the end
+## C. Write in the end
 
 > We have introduced the Fuzzy Logic Designer app—a Fuzzy Logic GUI toolbox that allows us to design, train, and test a fuzzy inference system (FIS) visually. Meanwhile, we also provided the corresponding command lines to perform the same tasks. Now, you can try training your own adaptive neuro-fuzzy inference system (ANFIS) and even validate and test your model.
 >
